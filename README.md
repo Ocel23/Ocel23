@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Ocel23</h1>
 <h3>I am developer from Czech Republic.</h3>
-<h5>I make website, web applications, mc servers and discord bots</h5>
+<h5>I make web applications, software apps, mc servers and discord bots</h5>
 <h5>and some other things.</h5>
 
 🔭 I’m currently working on [Chat app template for web](https://github.com/Ocel23/Chat-aplication)
